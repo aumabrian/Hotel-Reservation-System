@@ -42,4 +42,6 @@ The system will have modules, which are user friendly that will enhance user exp
    * Provides the user with the contact and how the user can reach us via our social media pages. 
 4. Home
    * Provides the user with our galleries and pictures of our hotel.
+   
+   ![Home](https://user-images.githubusercontent.com/73425838/122674673-e6cbe880-d1de-11eb-96d2-217f38335238.png)
 
