@@ -40,6 +40,8 @@ The system will have modules, which are user friendly that will enhance user exp
    * Provides the user with the details and all he/she needs to know about our hotel.
    * Provides the user with the location of our hotel.
    * Provides the user with the packages we offer.
+   
+   ![About Us](https://user-images.githubusercontent.com/73425838/122779411-827c5800-d2b6-11eb-9a7b-c0a5eb8b511e.png)
   
 3. Contact Us
    * Provides the user with the contact and how the user can reach us via our social media pages. 
@@ -48,3 +50,5 @@ The system will have modules, which are user friendly that will enhance user exp
    
    ![Home](https://user-images.githubusercontent.com/73425838/122674673-e6cbe880-d1de-11eb-96d2-217f38335238.png)
 
+5. Sign in
+   * Provides the user with the option to sign in. This is for the administrators only.
