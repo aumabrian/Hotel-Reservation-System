@@ -52,3 +52,5 @@ The system will have modules, which are user friendly that will enhance user exp
 
 5. Sign in
    * Provides the user with the option to sign in. This is for the administrators only.
+   
+   ![SIGN IN (1)](https://user-images.githubusercontent.com/73425838/122901605-5adccc80-d356-11eb-8428-442858793787.png)
