@@ -34,7 +34,7 @@ The system will have modules, which are user friendly that will enhance user exp
    * Provides the user with the button to make a reservation after selecting the rooms and the check in and check out date and specifying the number of guest. 
    * Provide the user with the amount he should pay and the mode of payment. 
    
-   ![Rooms php](https://user-images.githubusercontent.com/73425838/124111363-df73cd00-da71-11eb-94ad-120300b9ac5e.png)
+   
    
 2. About Us
    * Provides the user with the details and all he/she needs to know about our hotel.
@@ -43,10 +43,8 @@ The system will have modules, which are user friendly that will enhance user exp
 
 3. Home
    * Provides the user with our galleries and pictures of our hotel.
-   
-   ![Home php](https://user-images.githubusercontent.com/73425838/124111618-282b8600-da72-11eb-8154-4c779efe3595.png)
 
 4. Sign in
    * Provides the user with the option to sign in. This is for the administrators only.
    
-   ![SIGN IN (1)](https://user-images.githubusercontent.com/73425838/122901605-5adccc80-d356-11eb-8428-442858793787.png)
+   
