@@ -43,6 +43,8 @@ The system will have modules, which are user friendly that will enhance user exp
 
 3. Home
    * Provides the user with our galleries and pictures of our hotel.
+   
+   ![Hotel](https://user-images.githubusercontent.com/73425838/124934437-5e867980-e00d-11eb-82af-191aca8b4633.png)
 
 4. Sign in
    * Provides the user with the option to sign in. This is for the administrators only.
