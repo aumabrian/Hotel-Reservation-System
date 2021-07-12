@@ -26,7 +26,6 @@ if(!isset($_SESSION["user"]))
 					$fname = $row['FName'];
 					$lname = $row['LName'];
 					$email = $row['Email'];
-					$nat = $row['National'];
 					$country = $row['Country'];
 					$Phone = $row['Phone'];
 					$troom = $row['TRoom'];
@@ -156,7 +155,7 @@ if(!isset($_SESSION["user"]))
 					<div class="col-md-8 col-sm-8">
                     <div class="panel panel-info">
                         <div class="panel-heading">
-                           Booking Conformation
+                           Booking Confirmation
                         </div>
                         <div class="panel-body">
 							
@@ -177,11 +176,7 @@ if(!isset($_SESSION["user"]))
                                             <th><?php echo $email; ?> </th>
                                             
                                         </tr>
-										<tr>
-                                            <th>Nationality </th>
-                                            <th><?php echo $nat; ?></th>
-                                            
-                                        </tr>
+										
 										<tr>
                                             <th>Country </th>
                                             <th><?php echo $country;  ?></th>
@@ -246,10 +241,10 @@ if(!isset($_SESSION["user"]))
                         <div class="panel-footer">
                             <form method="post">
 										<div class="form-group">
-														<label>Select the Conformation</label>
+														<label>Select the Confirmation</label>
 														<select name="conf"class="form-control">
 															<option value selected>	</option>
-															<option value="Conform">Conform</option>
+															<option value="Conform">Confirm</option>
 															
 															
 														</select>
