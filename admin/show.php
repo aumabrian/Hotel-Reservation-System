@@ -230,7 +230,6 @@ tr:hover .cut { opacity: 1; }
 					</tr>
 					<tr> 
 						<td>Customer Country : -  <?php echo $country; ?> </td>
-						<td>Customer National : -  <?php echo $National; ?> </td>
 					</tr>
 				</table>
 				<br>
@@ -268,7 +267,7 @@ tr:hover .cut { opacity: 1; }
 		<aside>
 			<h1><span >Contact us</span></h1>
 			<div >
-				<p align="center">Email :- info@sunrise.com || Web :- www.sunrise.com || Phone :- +94 65 222 44 55 </p>
+				<p align="center">Email :- info@kalhotel.com || Web :- www.kalhotel.com || Phone :- +254 798 47 66 71 </p>
 			</div>
 		</aside>
 	</body>
