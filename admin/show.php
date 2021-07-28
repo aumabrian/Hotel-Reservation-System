@@ -198,7 +198,7 @@ tr:hover .cut { opacity: 1; }
 				<p>Along Thika road,<br>Nairobi,<br>Kenya.</p>
 				<p>+254 798 47 66 71</p>
 			</address>
-			<span><img alt="" src="assets/img/sun.png"></span>
+			<span><img alt="" src="assets/img/logo.png"></span>
 		</header>
 		<article>
 			<h1></h1>
