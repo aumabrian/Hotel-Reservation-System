@@ -54,7 +54,7 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`id`, `usname`, `pass`) VALUES
-(1, 'janobe', 'janobe');
+(1, 'brian', 'brian');
 
 -- --------------------------------------------------------
 
@@ -105,7 +105,7 @@ CREATE TABLE `payment` (
 --
 
 INSERT INTO `payment` (`id`, `title`, `fname`, `lname`, `troom`, `tbed`, `nroom`, `cin`, `cout`, `ttot`, `fintot`, `mepr`, `meal`, `btot`, `noofdays`) VALUES
-(2, 'Dr.', 'janobe', 'janobe', 'Superior Room', 'Single', 1, '2020-10-10', '2020-10-11', 320.00, 323.20, 0.00, 'Room only', 3.20, 1);
+(2, 'Dr.', 'brian', 'brian', 'Superior Room', 'Single', 1, '2020-10-10', '2020-10-11', 320.00, 323.20, 0.00, 'Room only', 3.20, 1);
 
 -- --------------------------------------------------------
 
@@ -154,7 +154,6 @@ CREATE TABLE `roombook` (
   `FName` text,
   `LName` text,
   `Email` varchar(50) DEFAULT NULL,
-  `National` varchar(30) DEFAULT NULL,
   `Country` varchar(30) DEFAULT NULL,
   `Phone` text,
   `TRoom` varchar(20) DEFAULT NULL,

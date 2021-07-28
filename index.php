@@ -156,7 +156,7 @@ include('db.php');
 									<div class="modal-header">
 										<button type="button" class="close" data-dismiss="modal">&times;</button>
 										<h4>THE KAL  <span>HOTEL & RESORT</span></h4>
-										<img src="images/front.jpg" alt="front image" class="img-responsive">
+										<img src="images/contact.jpg" alt="front image" class="img-responsive">
 										<h5>What you love to see</h5>
 										<p>Providing guests unique and enchanting views from their rooms with its exceptional amenities, makes Star Hotel one of bests in its kind.Try our food menu, awesome services and friendly staff while you are here.</p>
 									</div>
