@@ -741,7 +741,7 @@ li.menu__item:nth-child(6) {
 }
 .book-form-left-w3layouts h2 {
     color: #fff;
-    background: #ffce14;
+    background:red;
     padding: 60px 0;
     text-align: center;
     font-size: 25px;
@@ -1164,75 +1164,7 @@ p.about-para-w3ls {
     margin-right: 10px;
 }
 /*--//services-section--*/
-/*-- team --*/
 
-.tab1 .team-img-w3-agile{
-	  background: url(../images/teamb1.jpg)no-repeat 0px 0px;
-}
-.tab2 .team-img-w3-agile{
-	  background: url(../images/teamb2.jpg)no-repeat 0px 0px;
-}
-.tab3 .team-img-w3-agile{
-	  background: url(../images/teamb3.jpg)no-repeat 0px 0px;
-}
-.tab4 .team-img-w3-agile{
-	  background: url(../images/teamb4.jpg)no-repeat 0px 0px;
-}
-.tab1 .team-img-w3-agile,.tab2 .team-img-w3-agile,.tab3 .team-img-w3-agile,.tab4 .team-img-w3-agile{
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-ms-background-size: cover;
-    background-size: cover;
-	min-height: 360px;
-    width: 27%;
-	margin-left: 4em;
-}
-.team-Info-agileits {
-    text-align: left;
-    padding: 4em 0 0 3em;
-}
-.team-Info-agileits h4 {
-    font-size: 25px;
-    letter-spacing: 1px;
-}
-.team-Info-agileits span {
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: #7d7a7a;
-}
-.team-Info-agileits p {
-    font-size: 16px;
-    /* text-transform: uppercase; */
-    letter-spacing: .5px;
-    color: #337ab7;
-    line-height: 30px;
-    margin: 1.5em 0 1em;
-}
-.resp-tabs-list li{
-    opacity: .5;
-}
-li.resp-tab-item.resp-tab-active{
-	opacity:1;
-}
-ul.resp-tabs-list {
-    margin-left: 15em;
-}
-.resp-tabs-list li img {
-    border-radius: 100%;
-	-webkit-border-radius: 100%;
-    -o-border-radius: 100%;
-    -moz-border-radius: 100%;
-    -ms-border-radius: 100%;
-	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
-    -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
-    -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
-    -o-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
-    -ms-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
-
-}
-/*-- //team --*/
 /*--rooms & rates --*/
 .price-list ul {
     padding: 0px;
@@ -1259,7 +1191,7 @@ ul.resp-tabs-list {
     margin-left: 20px;
 }
 .price-selet h3 span {
-    color: #ef0404;
+    color: yellow;
     font-size: 31px;
     margin-right: 5px;
 }
@@ -1292,7 +1224,7 @@ ul.resp-tabs-list {
     color: #000000;
     display: inline-block;
     padding: 0.5em 2em;
-    background: #ffce14;
+    background: red;
     text-decoration: none;
     border: 2px solid #ecbf11;
 }
