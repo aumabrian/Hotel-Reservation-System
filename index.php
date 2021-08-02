@@ -99,9 +99,7 @@ include('db.php');
 								<h4>THE KAL HOTELS</h4>
 									<h3>What you love</h3>
 										<p>Welcome to our hotels</p>
-									<div class="agileits_w3layouts_more menu__item">
-				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
-			</div>
+					
 								</div>	
 							</div>
 						</div>
@@ -113,9 +111,7 @@ include('db.php');
 								<h4>THE KAL HOTELS</h4>
 									<h3>Stay with friends & families</h3>
 										<p>Come & enjoy an amazing experience with us</p>
-									<div class="agileits_w3layouts_more menu__item">
-				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
-			</div>
+				
 								</div>	
 							</div>
 						</div>
@@ -127,9 +123,7 @@ include('db.php');
 								<h4>THE KAL HOTELS</h4>
 								<h3>want luxurious vacation?</h3>
 										<p>Get accommodation today</p>
-									<div class="agileits_w3layouts_more menu__item">
-											<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
-										</div>
+									
 								</div>
 							</div>
 						</div>
@@ -148,22 +142,7 @@ include('db.php');
 	<!-- //banner --> 
 <!--//Header-->
 <!-- //Modal1 -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
-						<!-- Modal1 -->
-							<div class="modal-dialog">
-							<!-- Modal content-->
-								<div class="modal-content">
-									<div class="modal-header">
-										<button type="button" class="close" data-dismiss="modal">&times;</button>
-										<h4>THE KAL  <span>HOTEL & RESORT</span></h4>
-										<img src="images/contact.jpg" alt="front image" class="img-responsive">
-										<h5>What you love to see</h5>
-										<p>Providing guests unique and enchanting views from their rooms with its exceptional amenities, makes Star Hotel one of bests in its kind.Try our food menu, awesome services and friendly staff while you are here.</p>
-									</div>
-								</div>
-							</div>
-						</div>
-<!-- //Modal1 -->
+
 <div id="availability-agileits">
 <div class="col-md-12 book-form-left-w3layouts">
 	<a href="admin/reservation.php"><h2>MAKE A RESERVATION</h2></a>
